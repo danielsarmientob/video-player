@@ -1,6 +1,6 @@
 # video-player
 
-## Modificaciones
+## Modificaciones, index.js
 
 ### Input tipo rage
 
